@@ -1,0 +1,27 @@
+[
+  {
+    "id": "Title Enhancer",
+    "config": {
+      "steps\\o3_fetchVideo.step.ts": {
+        "x": 302,
+        "y": 96
+      },
+      "steps\\05_resend_mail.step.ts": {
+        "x": 802,
+        "y": 84
+      },
+      "steps\\04_ai_title_enhance.step.ts": {
+        "x": 555,
+        "y": 83
+      },
+      "steps\\02_resolve.step.ts": {
+        "x": 35,
+        "y": 61
+      },
+      "steps\\01_yt_submit.step.ts": {
+        "x": -205,
+        "y": 13
+      }
+    }
+  }
+]
